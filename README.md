@@ -25,7 +25,7 @@ Water Spray: The Arduino Uno activates the relay to start the water pump.
 Wiping Action: A second IR sensor triggers the servo motor to operate the wiping arm.
 Completion: After a set duration or when the vehicle moves away, the system stops the water pump.
 
-
+![image](https://github.com/prem-comet/Car-Washing-Report/blob/480b94526c85a618601895365c841067f97dde8f/Screenshot%202025-02-08%20214747.png)
 ----------Implementation Steps-------
 Assemble components according to the circuit diagram.
 Write and upload the Arduino code for system operations.
