@@ -31,6 +31,7 @@ Assemble components according to the circuit diagram.
 Write and upload the Arduino code for system operations.
 Test the prototype on small vehicles to ensure proper functionality.
 
+![image](https://github.com/prem-comet/Car-Washing-Report/blob/eaff9ef366bd786aaf8bd2104eac566f71ec9125/Screenshot%202025-02-08%20214858.png)
 -----Results---------
 The prototype successfully:
 Detects vehicles using IR sensors.
